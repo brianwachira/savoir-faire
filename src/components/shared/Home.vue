@@ -11,16 +11,3 @@
     </div>
 </div>    
 </template>
-<script>
-export default {
-    data(){
-        return{
-            showMore:false
-        }
-    }
-}
-</script>
-
-<style scoped>
-
-</style>
