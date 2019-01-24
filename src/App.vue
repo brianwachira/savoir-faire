@@ -37,7 +37,8 @@ export default {
   name: 'app',
   components: {
     Home
-  }
+    Home,
+    Navbar
 }
 </script>
 
