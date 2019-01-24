@@ -1,7 +1,6 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="background-img">
+ <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, dolor quisquam qui voluptas nemo saepe enim possimus eius sint? Animi eius deserunt magnam, autem dolor repudiandae quod totam dolorum consequuntur.</p>
   </div>
 </template>
 
@@ -17,12 +16,9 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+.background-img{
+  background-image: url('./assets/background3.2.jpg');
+  height: 100%;
+  opacity: 0.97;
 }
 </style>
