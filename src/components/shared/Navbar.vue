@@ -9,16 +9,16 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
                 <ul class="navbar-nav mr-auto">
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Home</a>
+                    <router-link to="/">Home</router-link>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Skills</a>
+                    <router-link to="/skills">Skills</router-link>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">My work</a>
+                    <router-link to="/work">My work</router-link>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Contact me</a>
+                    <router-link to="/contact">Contact me</router-link>
                   </li>
                 </ul>
               </div>
