@@ -1,17 +1,10 @@
-const home = resolve=>{
-    require.ensure(['./components/shared/Home.vue'],()=>{
-        resolve(require('./components/shared.Home.vue'));
-    },'home');
-};const skills = resolve=>{
-    require.ensure(['./components/shared/Skills.vue'],()=>{
-        resolve(require('./components/shared.Skills.vue'));
-    },'home');
-};const myWork = resolve=>{
-    require.ensure(['./components/shared/MyWork.vue'],()=>{
-        resolve(require('./components/shared.MyWork.vue'));
-    },'home');
-};const contactMe = resolve=>{
-    require.ensure(['./components/shared/ContactMe.vue'],()=>{
-        resolve(require('./components/shared.ContactMe.vue'));
-    },'home');
-};
+import Home from './components/shared/Home.vue'
+import Skills from './components/shared/Skills.vue'
+import myWork from './components/shared/MyWork.vue'
+import contactMe from './components/shared/ContactMe.vue'
+export const routes = [
+    {path:'',component:Home},
+    {path:'/skills',component:Skills},
+    {path:'/work',component:myWork},
+    {path:'/contact',component:contactMe},
+];
