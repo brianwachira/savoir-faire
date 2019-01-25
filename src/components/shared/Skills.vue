@@ -27,10 +27,10 @@
                 <div class="progress">
                     <div class="progress-bar bg-jblue" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-            </div>
-            <div class="col-md-6 col-sm-12">
-                <h2 class="header">Other Tools</h2>
-                <label for="C-programming">C programming</label>
+            <!--/div> 
+            <div class="col-md-6 col-sm-12"-->
+                <h2 class="header text-light text-center font-weight-bolder mt-5">Other Tools</h2>
+                <label for="C-programming" class="text-light font-weight-bolder">C programming</label>
                 <div class="progress">
                     <div class="progress-bar bg-vue" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
