@@ -1,9 +1,9 @@
 <template>
     <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-6 col-sm-12 ">
-                <div class="h2 heading">Tools I use mostly</div>
-                <label for="android">Native Android Application Development</label>
+        <div class="row"> 
+            <div class="col-md-6 offset-md-2 col-md-5  offset-md-3 col-sm-12 ">
+                <div class="h2 heading text-light text-center font-weight-bolder">Tools I use mostly</div>
+                <label for="android" class="text-light font-weight-bolder">Android Native App Development</label>
                 <div class="progress">
                     <div class="progress-bar bg-success" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
