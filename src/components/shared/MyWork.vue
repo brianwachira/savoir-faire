@@ -6,14 +6,14 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="../../assets/background1.jpg" class="d-block w-100" alt="background1">
+    <div class="carousel-item active align-items-sm-center">
+      <img src="../../assets/avuvi.png" class="d-block  w-100" alt="background1">
     </div>
     <div class="carousel-item">
-      <img src="../../assets/background2.jpg" class="d-block w-100" alt="background2">
+      <img src="../../assets/flappybird.jpg" class="d-block w-100" alt="background2">
     </div>
     <div class="carousel-item">
-      <img src="../../assets/background3.jpg" class="d-block w-100" alt="background3">
+      <img src="../../assets/wahenga-walisema.png" class="d-block w-100" alt="background3">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
