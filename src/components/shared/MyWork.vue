@@ -17,7 +17,7 @@
                 <div class="card-body">
                   <h5 class="card-title text-light font-weignt-bold">AVUVI PHOTOGRAPHY</h5>
                   <p class="card-text text-light">Above showcases the minimum viable portfolio website(MVP) done for <a href="https://www.instagram.com/avuvi_photography/">Avuvi Photography</a>. Final release is on its way</p>
-                  <a href="https://brianwachira.github.io/avuvi-photography/html/index" class="btn btn-inherit">Visit Website</a><a href="https://github.com/brianwachira/avuvi-photography" class="btn btn-inherit">View source-code</a>
+                  <a href="https://brianwachira.github.io/avuvi-photography/html/index" class="btn btn-inherit mr-0 mr-md-2 mr-lg-2 mr-xs-2">Visit Website</a><a href="https://github.com/brianwachira/avuvi-photography" class="btn btn-inherit">View source-code</a>
                 </div>
               </div>
             </div>
@@ -27,7 +27,7 @@
                 <div class="card-body">
                   <h5 class="card-title text-light font-weignt-bold">Wahenga Walisema</h5>
                   <p class="card-text text-light">Share your wisdom to the rest of the world with this Vue App. Future implementations will have database intergration</p>
-                  <a href="https://brianwachira.github.io/wahenga-walisema/dist/" class="btn btn-inherit">Visit Website</a><a href="https://github.com/brianwachira/wahenga-walisema" class="btn btn-inherit">View Project on GitHub</a>
+                  <a href="https://brianwachira.github.io/wahenga-walisema/dist/" class="btn btn-inherit mr-0 mr-md-2 mr-lg-2 mr-xs-2">Visit Website</a><a href="https://github.com/brianwachira/wahenga-walisema" class="btn btn-inherit">View Project on GitHub</a>
                 </div>
               </div>
             </div>
