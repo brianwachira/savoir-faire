@@ -32,6 +32,13 @@
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
+                <a href="https://twitter.com/mr_brianwachira" target="blank">
+                    <i class="fab fa-twitter-square icons fa-3x"></i>
+                </a>
+                <p class="text-light font-weight-bolder">@brianwachira</p>
+                <hr style="width: 80%; border-color: white; border-width: 3px;">
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
                 <a href="https://www.facebook.com/brianwizyy" target="blank">
                     <i class="fab fa-facebook-square icons fa-3x"></i>
@@ -39,6 +46,9 @@
                 <p class="text-light font-weight-bolder">Brian M. Wachira</p>
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
+        </div> 
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center"></div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
                 <a href="https://www.instagram.com/mr_brianwachira/" target="blank">
