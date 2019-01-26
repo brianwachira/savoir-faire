@@ -11,13 +11,13 @@
                     <router-link  to="/" tag="li" class="nav-item nav-link" active-class="active" exact><a class="text-light">Home</a></router-link>
                   
 
-                    <router-link to="/skills" tag="li" class="nav-item nav-link" active-class="active"><a>My skills</a></router-link>
+                    <router-link to="/skills" tag="li" class="nav-item nav-link" active-class="active"><a class="text-light">My skills</a></router-link>
                   
                   
-                    <router-link to="/work" tag="li" class="nav-item nav-link" active-class="active"><a>My work</a></router-link>
+                    <router-link to="/work" tag="li" class="nav-item nav-link" active-class="active"><a class="text-light">My work</a></router-link>
                   
                 
-                    <router-link to="/contact" tag="li" class="nav-item nav-link" active-class="active"><a>Contact me</a></router-link>
+                    <router-link to="/contact" tag="li" class="nav-item nav-link" active-class="active"><a class="text-light">Contact me</a></router-link>
                   
                 </ul>
               </div>
