@@ -34,3 +34,12 @@
           </div>
       </div>  
 </template>
+<style scoped>
+.btn-inherit{
+        border: 2px solid rgb(255, 255, 255)
+}
+.bg-inherit{
+        border: 2px solid rgb(255, 255, 255)
+}
+</style>
+
