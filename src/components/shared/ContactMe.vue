@@ -22,27 +22,27 @@
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
             <div class="col-md-2 col-sm text-center">
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
                 <a href="https://www.linkedin.com/in/brianwachira/">
                     <i class="fab fa-linkedin icons fa-3x"></i>
-                </a>
-                <p class="text-light">brianwachira</p>
+                </a> 
+                <p class="text-light font-weight-bolder">brianwachira</p>
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
             <div class="col-md-2 col-sm text-center">
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
                 <a href="https://www.facebook.com/brianwizyy">
                     <i class="fab fa-facebook-square icons fa-3x"></i>
                 </a>
-                <p class="text-light">Brian M. Wachira</p>
+                <p class="text-light font-weight-bolder">Brian M. Wachira</p>
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
             <div class="col-md-2 col-sm text-center">
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
                 <a href="https://www.instagram.com/mr_brianwachira/">
                     <i class="fab fa-instagram icons fa-3x"></i>
                 </a>
-                <p class="text-light">mr_brianwachira</p>
+                <p class="text-light font-weight-bolder">mr_brianwachira</p>
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
         </div>
