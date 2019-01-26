@@ -15,7 +15,7 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
-                <a href="https://www.github.com/brianwachira">
+                <a href="https://www.github.com/brianwachira" target="blank">
                     <i class="fab fa-github-square icons fa-3x"></i>
                 </a>
                 <p class="text-light font-weight-bolder">brianwachira</p>
@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
-                <a href="https://www.linkedin.com/in/brianwachira/">
+                <a href="https://www.linkedin.com/in/brianwachira/" target="blank">
                     <i class="fab fa-linkedin icons fa-3x"></i>
                 </a> 
                 <p class="text-light font-weight-bolder">brianwachira</p>
@@ -33,7 +33,7 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
-                <a href="https://www.facebook.com/brianwizyy">
+                <a href="https://www.facebook.com/brianwizyy" target="blank">
                     <i class="fab fa-facebook-square icons fa-3x"></i>
                 </a>
                 <p class="text-light font-weight-bolder">Brian M. Wachira</p>
@@ -41,7 +41,7 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
-                <a href="https://www.instagram.com/mr_brianwachira/">
+                <a href="https://www.instagram.com/mr_brianwachira/" target="blank">
                     <i class="fab fa-instagram icons fa-3x"></i>
                 </a>
                 <p class="text-light font-weight-bolder">mr_brianwachira</p>
