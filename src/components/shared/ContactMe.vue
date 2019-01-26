@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid">
-        <div class="row">
-            <div class=" col-xl-4 col-lg-4 col-md-4 col-sm text-center">
+        <div class="row  mt-0-mt-sm-5 mb-0 mb-sm-5">
+            <div class=" col-xl-4 col-lg-4 col-md-4 col-sm text-center  ">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"--> 
                 <i class="fas fa-envelope icons fa-3x"></i>
                 <p class="text-light font-weight-bolder">brianwachira7@gmail.com</p>
@@ -22,7 +22,7 @@
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
         </div>
-        <div class="row">
+        <div class="row mb-0 mb-sm-5">
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
                 <a href="https://www.linkedin.com/in/brianwachira/" target="blank">
