@@ -36,3 +36,12 @@
         </div>
     </div>
 </template>
+<style scoped>
+.icons {
+color: white;
+}
+.icons:hover{
+    color: rgb(235, 191, 111);
+}
+</style>
+
