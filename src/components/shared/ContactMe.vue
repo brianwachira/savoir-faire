@@ -1,6 +1,6 @@
 <template>
     <div class="container-fluid">
-        <h3 class="text-center mb-5 text-light" style="font-size:large">Find me on<br/></h3>
+        <h3 class="text-center mb-5 text-light">Find me on<br/></h3>
         <div class="row  mt-0 mt-sm-5 mb-0 mb-sm-5">
             <div class=" col-xl-4 col-lg-4 col-md-4 col-sm text-center  ">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"--> 
