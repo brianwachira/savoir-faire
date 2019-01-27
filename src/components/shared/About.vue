@@ -1,8 +1,16 @@
 <template>
     <div class="container-fluid"> 
         <div class="row">
-            <div class="col px-3 px-md-0 text-center mt-5 text-light w-50">
-                <p>I live in my mind alot because that's where everything goes down. You'll always find me going for unique trends(short for choosy),trying out different recipes in food Eg fried Ugali(see the definition of Ugali<a target="blank" href="https://www.google.com/search?q=ugali+definition&oq=Ugali+definition&aqs=chrome.0.0l6.4652j1j8&client=ubuntu&sourceid=chrome&ie=UTF-8"> here)</a>,background images in websites, shoelaces in shoes among others. Above that, I am a born again Christian. God loves me and you whether you have accepted Jesus or not. He just loves you unconditionally. God has enabled me to execute solutions through technology,which inturn advances His kingdom here on Earth.</p>
+            <div class="col-md-6 offset-md-3 col-sm offset-sm px-3 px-md-0 text-center  text-light  mt-0 mt-sm-5">
+                <p>What you saw on Home is part of my work titles. I am a thinker but above<br/> all a born again christian full of creativity. Some of my hobbies include 
+                    <ul class="mt-0 mt-sm-4">
+                        <li>Watching movies</li>
+                        <li>Jogging especially evening jogs</li>
+                        <li>reading self-improvement books</li>
+                        <li class="mb-0 mb-sm-4">cooking</li>
+                    </ul>
+                     I can offer leadership and guidance when need arises,fit in a team and try to <br/> relate with each person's point of view. Stick around and you will learn more about me.     
+                </p>
         </div>
     </div>
     </div>
