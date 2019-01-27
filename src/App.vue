@@ -1,7 +1,11 @@
 <template>
   <div class="background-img">
             <navbar></navbar>
-            <router-view></router-view>
+            <transition
+              enter-active-class="animated fadeInUp"
+              leave-active-class="animated fadeOutDown">
+              <router-view ></router-view>
+            </transition>
   </div>
 </template>
 
