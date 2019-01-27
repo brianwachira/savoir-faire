@@ -9,10 +9,12 @@
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
-                <!--hr style="width: 80%; border-color: white; border-width: 3px;"--> 
-                <i class="fab fa-whatsapp-square icons fa-3x"></i>
-                <p class="text-light font-weight-bolder" style="font-size:large">+254707250844</p>
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
+                <a href="https://t.me/RighteousnessPeaceandJoy" target="blank">
+                    <i class="fab fa-telegram icons fa-3x"></i>
+                    <p class="text-light font-weight-bolder" style="font-size:large">@RPJ</p>
+                    <hr style="width: 80%; border-color: white; border-width: 3px;">
+                </a>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
