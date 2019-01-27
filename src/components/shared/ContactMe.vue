@@ -1,17 +1,17 @@
 <template>
     <div class="container-fluid">
-        <h3 class="text-center mb-5 text-light">Find me on<br/></h3>
-        <div class="row  mt-0-mt-sm-5 mb-0 mb-sm-5">
+        <h3 class="text-center mb-5 text-light" style="font-size:large">Find me on<br/></h3>
+        <div class="row  mt-0 mt-sm-5 mb-0 mb-sm-5">
             <div class=" col-xl-4 col-lg-4 col-md-4 col-sm text-center  ">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"--> 
                 <i class="fas fa-envelope icons fa-3x"></i>
-                <p class="text-light font-weight-bolder">brianwachira7@gmail.com</p>
+                <p class="text-light font-weight-bolder" style="font-size:large">brianwachira7@gmail.com</p>
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"--> 
                 <i class="fab fa-whatsapp-square icons fa-3x"></i>
-                <p class="text-light font-weight-bolder">+254707250844</p>
+                <p class="text-light font-weight-bolder" style="font-size:large">+254707250844</p>
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
@@ -19,7 +19,7 @@
                 <a href="https://www.github.com/brianwachira" target="blank">
                     <i class="fab fa-github-square icons fa-3x"></i>
                 </a>
-                <p class="text-light font-weight-bolder">brianwachira</p>
+                <p class="text-light font-weight-bolder" style="font-size:large">brianwachira</p>
                 <hr style="width: 80%; border-color: white; border-width: 3px;">
             </div>
         </div>
