@@ -1,5 +1,5 @@
 <template>
-    <svg x="0" y="0" width="258" height="258" class="spinner-wrapper">
+    <svg x="0" y="0" width="258" height="258">
 
       <g clip-path="url(#clip-path)">
 
@@ -106,7 +106,9 @@ svg {
     }
 
     .tree {
-      fill: white;
+      fill: #659999;  /* fallback for old browsers */
+      fill: -webkit-linear-gradient(to right, #f4791f, #659999);  /* Chrome 10-25, Safari 5.1-6 */
+      fill: linear-gradient(to right, #f4791f, #659999); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     }
 
     .circle-mask {
