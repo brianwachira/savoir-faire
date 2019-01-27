@@ -8,16 +8,16 @@
               </button>
               <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
                 <ul class="navbar-nav w-100 nav-justified">
-                    <router-link  to="/" tag="li" class="nav-item nav-link" active-class="active" exact><a class="text-light">Home</a></router-link>
+                    <router-link  to="/" tag="li" class="nav-item nav-link" active-class="active" exact><a class="text-light" style="font-size:large">Home</a></router-link>
                   
 
-                    <router-link to="/skills" tag="li" class="nav-item nav-link" active-class="active"><a class="text-light">My skills</a></router-link>
+                    <router-link to="/skills" tag="li" class="nav-item nav-link" active-class="active"><a class="text-light" style="font-size:large">My skills</a></router-link>
                   
                   
-                    <router-link to="/work" tag="li" class="nav-item nav-link" active-class="active"><a class="text-light">My work</a></router-link>
+                    <router-link to="/work" tag="li" class="nav-item nav-link" active-class="active"><a class="text-light" style="font-size:large">My work</a></router-link>
                   
                 
-                    <router-link to="/contact" tag="li" class="nav-item nav-link" active-class="active"><a class="text-light">Contact me</a></router-link>
+                    <router-link to="/contact" tag="li" class="nav-item nav-link" active-class="active"><a class="text-light" style="font-size:large">Contact me</a></router-link>
                   
                 </ul>
               </div>
