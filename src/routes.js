@@ -8,5 +8,6 @@ export const routes = [
     {path:'/skills',component:Skills},
     {path:'/work',component:myWork},
     {path:'/contact',component:contactMe},
-    {path:'/about',component:About}
+    {path:'/about',component:About},
+    { path: '*', redirect: '/' }
 ];
