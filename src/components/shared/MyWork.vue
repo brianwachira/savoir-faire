@@ -7,10 +7,11 @@
                 <div class="card-body ">
                   <h5 class="card-title text-light font-weignt-bold">Flappy Bird</h5>
                   <p class="card-text text-light">An android game based on flappybird concept from <a href="https://www.flappybird.io" target="blank">flappybird.io.</a>Guide the bird as it adventures against human-made poles that have filled up the city.</p>
-                  <a href="https://github.com/brianwachira/flappybird-app" target="blank" class="btn btn-inherit text-center ">View Project on GitHub</a>
+                  <div class="row">
+                    <div class="col-md-3"></div><a href="https://github.com/brianwachira/flappybird-app" target="blank" class="btn btn-inherit text-center col-md-6 mb-1">View Project on <i class="fab fa-github-alt fa-1x"></i></a><div class="col-md-3"></div>
+                  </div>
                 </div>
               </div>
-            </div>
             <div class="col-md-4">
               <div class="card bg-inherit mb-3">
                 <img class="card-img-top" src="~@/assets/avuvi.png" alt="background1">
