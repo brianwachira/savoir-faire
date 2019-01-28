@@ -40,6 +40,25 @@
           </div>
       </div>  
 </template>
+
+<script>
+import flappybird from "../../assets/flappybird.jpg"
+import avuvi from "../../assets/avuvi.png"
+import wahenga from "../../assets/wahenga-walisema.png"
+
+export default {
+ data(){
+   return{
+     images :{
+      flappybird,
+      avuvi,
+      wahenga
+     }
+   }
+ }  
+}
+</script>
+
 <style scoped>
 .btn-inherit{
         border: 2px solid rgb(255, 255, 255)
