@@ -12,6 +12,7 @@
                   </div>
                 </div>
               </div>
+            </div>
             <div class="col-md-4">
               <div class="card bg-inherit mb-3">
                 <img class="card-img-top" src="~@/assets/avuvi.png" alt="background1">
