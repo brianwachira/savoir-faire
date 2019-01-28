@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-4">
               <div class="card bg-inherit mb-3"> 
-                <img class="card-img-top" src="../../assets/flappybird.jpg" alt="background3">
+                <img class="card-img-top" src="~@/assets/flappybird.jpg" alt="background3">
                 <div class="card-body ">
                   <h5 class="card-title text-light font-weignt-bold">Flappy Bird</h5>
                   <p class="card-text text-light">An android game based on flappybird concept from <a href="https://www.flappybird.io" target="blank">flappybird.io.</a>Guide the bird as it adventures against human-made poles that have filled up the city.</p>
@@ -13,7 +13,7 @@
             </div>
             <div class="col-md-4">
               <div class="card bg-inherit mb-3">
-                <img class="card-img-top" src="../../assets/avuvi.png" alt="background1">
+                <img class="card-img-top" src="~@/assets/avuvi.png" alt="background1">
                 <div class="card-body">
                   <h5 class="card-title text-light font-weignt-bold">AVUVI PHOTOGRAPHY</h5>
                   <p class="card-text text-light">Above showcases the minimum viable portfolio website(MVP) done for <a href="https://www.instagram.com/avuvi_photography/" target="blank">Avuvi Photography</a>. Final release is on its way</p>
@@ -23,7 +23,7 @@
             </div>
             <div class="col-md-4">
               <div class="card bg-inherit mb-3">
-                <img class="card-img-top" src="../../assets/wahenga-walisema.png" alt="background2">
+                <img class="card-img-top" src="~@/assets/wahenga-walisema.png" alt="background2">
                 <div class="card-body">
                   <h5 class="card-title text-light font-weignt-bold">Wahenga Walisema</h5>
                   <p class="card-text text-light">Share your wisdom to the rest of the world with this Vue App. Future implementations will have database intergration</p>
