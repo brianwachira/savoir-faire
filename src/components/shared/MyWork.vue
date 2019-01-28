@@ -31,7 +31,9 @@
                 <div class="card-body">
                   <h5 class="card-title text-light font-weignt-bold">Wahenga Walisema</h5>
                   <p class="card-text text-light">Share your wisdom to the rest of the world with this Vue App. Future implementations will have database intergration</p>
-                  <a href="https://brianwachira.github.io/wahenga-walisema/dist/" target="blank" class="btn btn-inherit mr-0 mr-md-2 mr-lg-2 mr-xs-2 mb-2 mb-sm-0">Visit Website</a><a href="https://github.com/brianwachira/wahenga-walisema"  target="blank" class="btn btn-inherit">View Project on GitHub</a>
+                  <div class="row">
+                    <a href="https://brianwachira.github.io/wahenga-walisema/dist/" target="blank" class="btn btn-inherit col-md-5 mb-1">Visit Website</a><div class="col-md-2"></div><a href="https://github.com/brianwachira/wahenga-walisema"  target="blank" class="btn btn-inherit col-md-5 mb-1">View Project on <i class="fab fa-github-alt fa-1x"></i></a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -46,4 +48,3 @@
         border: 2px solid rgb(255, 255, 255)
 }
 </style>
-
