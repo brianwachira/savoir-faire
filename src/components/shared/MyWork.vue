@@ -12,13 +12,16 @@
                   </div>
                 </div>
               </div>
+            </div>
             <div class="col-md-4">
               <div class="card bg-inherit mb-3">
                 <img class="card-img-top" src="../../assets/avuvi.png" alt="background1">
                 <div class="card-body">
                   <h5 class="card-title text-light font-weignt-bold">AVUVI PHOTOGRAPHY</h5>
                   <p class="card-text text-light">Above showcases the minimum viable portfolio website(MVP) done for <a href="https://www.instagram.com/avuvi_photography/" target="blank">Avuvi Photography</a>. Final release is on its way</p>
-                  <a href="https://brianwachira.github.io/avuvi-photography/html/index" target="blank" class="btn btn-inherit mr-0 mr-md-2 mr-lg-2 mr-xs-2 mb-2 mb-sm-0">Visit Website</a><a href="https://github.com/brianwachira/avuvi-photography" target="blank" class="btn btn-inherit">View source-code</a>
+                  <div class="row">
+                    <a href="https://brianwachira.github.io/avuvi-photography/html/index" target="blank" class="btn btn-inherit  col-md-5 mb-1">Visit Website</a><div class="col-md-2"></div><a href="https://github.com/brianwachira/avuvi-photography" target="blank" class="btn btn-inherit col-md-5 mb-1">View source-code</a>
+                  </div>
                 </div>
               </div>
             </div>
