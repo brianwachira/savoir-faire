@@ -34,7 +34,7 @@
                   <h5 class="card-title text-light font-weignt-bold">Flappy Bird</h5>
                   <p class="card-text text-light">An android game based on flappybird concept from <a href="https://www.flappybird.io" target="blank">flappybird.io.</a>Guide the bird as it adventures against human-made poles that have filled up the city.</p>
                   <div class="row">
-                    <div class="col-md-3"></div><a href="https://github.com/brianwachira/flappybird-app" target="blank" class="btn btn-inherit text-center col-md-6 mb-1">View Project on <i class="fab fa-github-alt fa-1x"></i></a><div class="col-md-3"></div>
+                    <div class="col-md-3"></div><a href="https://github.com/brianwachira/flappybird-app" target="blank" class="btn btn-inherit text-center col-md-6">View Project on <i class="fab fa-github-alt fa-1x"></i></a><div class="col-md-3"></div>
                   </div>
                 </div>
               </div>
@@ -46,7 +46,7 @@
                   <h5 class="card-title text-light font-weignt-bold">News Reader</h5>
                   <p class="card-text text-light">An android app that fetches news using <a href="https://github.com/HackerNews/API" target="blank">HackerNews API</a>Guide the bird as it adventures against human-made poles that have filled up the city.</p>
                   <div class="row">
-                    <div class="col-md-3"></div><a href="https://github.com/brianwachira/news-reader" target="blank" class="btn btn-inherit text-center col-md-6 mb-1">View Project on <i class="fab fa-github-alt fa-1x"></i></a><div class="col-md-3"></div>
+                    <div class="col-md-3"></div><a href="https://github.com/brianwachira/news-reader" target="blank" class="btn btn-inherit text-center col-md-6">View Project on <i class="fab fa-github-alt fa-1x"></i></a><div class="col-md-3"></div>
                   </div>
                 </div>
               </div>
