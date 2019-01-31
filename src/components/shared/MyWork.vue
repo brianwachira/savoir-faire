@@ -45,6 +45,7 @@
 import flappybird from "../../assets/flappybird.jpg"
 import avuvi from "../../assets/avuvi.png"
 import wahenga from "../../assets/wahenga-walisema.png"
+import newsreader from "../../assets/Screenshot_20190131-114534.png"
 
 export default {
  data(){
@@ -52,7 +53,8 @@ export default {
      images :{
       flappybird,
       avuvi,
-      wahenga
+      wahenga,
+      newsreader
      }
    }
  }  
