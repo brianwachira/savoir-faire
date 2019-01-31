@@ -1,19 +1,7 @@
 <template>
       <div class="container-fluid">
         <div class="row">
-            <div class="col-md-4">
-              <div class="card bg-inherit mb-3"> 
-                <img class="card-img-top" :src="images.flappybird" alt="background3">
-                <div class="card-body ">
-                  <h5 class="card-title text-light font-weignt-bold">Flappy Bird</h5>
-                  <p class="card-text text-light">An android game based on flappybird concept from <a href="https://www.flappybird.io" target="blank">flappybird.io.</a>Guide the bird as it adventures against human-made poles that have filled up the city.</p>
-                  <div class="row">
-                    <div class="col-md-3"></div><a href="https://github.com/brianwachira/flappybird-app" target="blank" class="btn btn-inherit text-center col-md-6 mb-1">View Project on <i class="fab fa-github-alt fa-1x"></i></a><div class="col-md-3"></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
               <div class="card bg-inherit mb-3">
                 <img class="card-img-top" :src="images.avuvi" alt="background1">
                 <div class="card-body">
@@ -25,7 +13,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
               <div class="card bg-inherit mb-3">
                 <img class="card-img-top" :src="images.wahenga" alt="background2">
                 <div class="card-body">
