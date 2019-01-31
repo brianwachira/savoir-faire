@@ -1,6 +1,6 @@
 <template>
       <div class="container-fluid">
-        <div class="row">
+        <div class="row mb-4">
             <div class="col-md-6">
               <div class="card bg-inherit mb-3">
                 <img class="card-img-top" :src="images.avuvi" alt="background1">
