@@ -67,4 +67,3 @@ export default {
         border: 2px solid rgb(255, 255, 255)
 }
 </style>
-
