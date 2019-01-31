@@ -52,6 +52,12 @@
               </div>
             </div>
           </div>
+          <div class="row">
+            <h3 class="col text-center text-light mr-3">Find more projects on<br/> 
+                <a href="https://www.github.com/brianwachira" target="blank">
+                    <i class="fab fa-github-alt fa-2x icons mr-3"></i>
+                </a><a href="https://www.github.com/brianwachira"></a></h3>
+          </div>
       </div>  
 </template>
 
@@ -81,5 +87,11 @@ export default {
 }
 .bg-inherit{
         border: 2px solid rgb(255, 255, 255)
+}
+.icons {
+color: white;
+}
+.icons:hover{
+    color: rgb(235, 191, 111);
 }
 </style>
