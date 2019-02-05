@@ -1,7 +1,11 @@
 import Home from './components/shared/Home.vue'
 import About from './components/shared/About.vue'
 import Skills from './components/shared/Skills.vue'
-import myWork from './components/shared/MyWork.vue'
+const myWork = resolve => {
+  require.ensure(['./components/shared/MyWork.vue'],()=>{
+    resolve(require('./components/shared/MyWork.vue'));
+  });
+};
 import contactMe from './components/shared/ContactMe.vue'
 export const routes = [
     {path:'/',component:Home},
