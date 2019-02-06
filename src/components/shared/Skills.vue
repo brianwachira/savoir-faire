@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row"> 
             <div class="col-md-6 offset-md-2 col-md-5  offset-md-3 col-sm-12 ">
-                <div class="h2 heading text-light text-center font-weight-bolder mb-sm-5 mb-md-5 mb-lg-5 mb-xl-5 mb-5">Tools I use mostly. I call them tools because they help me get a job done</div>
+                <div class="h2 heading text-light text-center font-weight-bolder mb-sm-5 mb-md-5 mb-lg-5 mb-xl-5 mb-5">Tools I use mostly to get a job done</div>
                 <label for="android" class="text-light font-weight-bolder">Android Native App Development</label>
                 <div class="progress mb-3">
                     <div class="progress-bar bg-success" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
