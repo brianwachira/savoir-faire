@@ -15,8 +15,4 @@
 .mt-5{
     margin-top: 4.5rem!important;
 }
-
-.landing-page{
-    height: calc(100vh - 140px);
-}
 </style>
