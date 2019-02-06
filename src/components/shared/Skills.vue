@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid">
-        <div class="row"> 
-            <div class="col-md-6 offset-md-2 col-md-5  offset-md-3 col-sm-12 ">
+        <div class="row landing-page">
+            <div class="col-md-6 offset-md-2 col-md-5  offset-md-3 col-sm-12 align-self-lg-center">
                 <div class="h2 heading text-light text-center font-weight-bolder mb-sm-5 mb-md-5 mb-lg-5 mb-xl-5 mb-5">Tools I use mostly to get a job done</div>
                 <label for="android" class="text-light font-weight-bolder">Android Native App Development</label>
                 <div class="progress mb-3">
