@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid"> 
-        <div class="row"> 
-            <div class="col-md-6 offset-md-2 col-md-5  offset-md-3 col-sm-12 justify-content-center  text-light  mt-0 mt-sm-5 ubuntu">
+        <div class="row landing-page"> 
+            <div class="col-md-6 offset-md-2 col-md-5  offset-md-3 col-sm-12 justify-content-center  text-light  mt-0 mt-sm-5 ubuntu align-self-lg-center">
                 <p>What you saw on Home is kinda like man-made work titles, basically a drop in the ocean. Oh and by the way, savoir faire is a distant synonym to portfolio or resume. Yeah don't expect me to use a common name like everyone does. That said, I am a thinker but above all a born again christian full of creativity. Some of my hobbies include 
                     <ul class="mt-0 mt-sm-4">
                         <li>Watching movies</li>
