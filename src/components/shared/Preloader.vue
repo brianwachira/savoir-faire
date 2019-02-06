@@ -106,10 +106,8 @@ svg {
     }
 
     .tree {
-      fill: #659999;  /* fallback for old browsers */
-      fill: -webkit-linear-gradient(to right, #f4791f, #659999);  /* Chrome 10-25, Safari 5.1-6 */
-      fill: linear-gradient(to right, #f4791f, #659999); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    }
+      fill: #ffffff;  /* fallback for old browsers */
+       }
 
     .circle-mask {
       transform-origin: 50% 90%;
