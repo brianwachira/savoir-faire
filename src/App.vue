@@ -3,11 +3,7 @@
     <preloader v-show="showLoader"></preloader>
     <div v-show="!showLoader">
       <navbar></navbar>
-        <transition
-          enter-active-class="animated fadeInUp"
-          leave-active-class="animated fadeOutDown">
-          <router-view></router-view>
-        </transition>
+      <router-view></router-view>
     </div>
   </div>
 </template>
