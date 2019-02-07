@@ -44,6 +44,9 @@
     
 </template>
 <style scoped>
+        .landing-page{
+          height: calc(100vh - 0px);
+              }
 .bg-orange{
     background-color: rgb(243, 89, 0)
 }
