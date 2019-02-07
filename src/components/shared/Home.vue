@@ -1,8 +1,8 @@
 <template>
 <div class="content">
     <div class="container-fluid">
-        <div class="row">  
-            <div class="col text-center mt-5 ">
+        <div class="row landing-page">  
+            <div class="col text-center align-self-center">
                 <h1 class="text-light">Brian Wachira</h1>
                 <h2 class="text-light">Frontend/Android App Developer</h2>
                 <router-link class="btn btn-inherit mt-5" to="/about" tag="button">About Me</router-link>
