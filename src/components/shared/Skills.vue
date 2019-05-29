@@ -11,6 +11,10 @@
                 <div class="progress mb-3">
                     <div class="progress-bar bg-vue" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
+                <label for="API" class="text-light font-weight-bolder">Devops(AWS)</label>
+                <div class="progress mb-3">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
                 <label for="Vue.js" class="text-light font-weight-bolder">Vue</label>
                 <div class="progress mb-3">
                     <div class="progress-bar bg-vue" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
@@ -30,10 +34,6 @@
                 <label for="JQuery" class="text-light font-weight-bolder">JQuery</label>
                 <div class="progress mb-3">
                     <div class="progress-bar bg-jblue" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                <label for="API" class="text-light font-weight-bolder">APIs(openweather API,hackernews API, googlemaps API,mailchimp API)</label>
-                <div class="progress mb-3">
-                    <div class="progress-bar bg-danger" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
             <!--/div> 
             <div class="col-md-6 col-sm-12"-->
