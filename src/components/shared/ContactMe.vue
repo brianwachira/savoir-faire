@@ -6,14 +6,14 @@
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"--> 
                 <i class="fas fa-envelope icons fa-3x"></i>
                 <p class="text-light font-weight-bolder" style="font-size:large">brianwachira7@gmail.com</p>
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
                 <a href="https://t.me/RighteousnessPeaceandJoy" target="blank">
                     <i class="fab fa-telegram icons fa-3x"></i>
                     <p class="text-light font-weight-bolder" style="font-size:large">@RPJ</p>
-                    <hr style="width: 80%; border-color: white; border-width: 3px;">
+                    <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
                 </a>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
@@ -22,7 +22,7 @@
                     <i class="fab fa-github-square icons fa-3x"></i>
                 </a>
                 <p class="text-light font-weight-bolder" style="font-size:large">brianwachira</p>
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
             </div>
         </div>
         <div class="row mb-0 mb-sm-5">
@@ -32,14 +32,14 @@
                     <i class="fab fa-linkedin icons fa-3x"></i>
                 </a> 
                 <p class="text-light font-weight-bolder" style="font-size:large">brianwachira</p>
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <a href="https://twitter.com/mr_brianwachira" target="blank">
                     <i class="fab fa-twitter-square icons fa-3x"></i>
                 </a>
                 <p class="text-light font-weight-bolder" style="font-size:large">@brianwachira</p>
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm text-center">
                 <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
@@ -47,7 +47,7 @@
                     <i class="fab fa-facebook-square icons fa-3x"></i>
                 </a>
                 <p class="text-light font-weight-bolder" style="font-size:large">Brian M. Wachira</p>
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
             </div>
         </div> 
         <div class="row">
@@ -58,7 +58,7 @@
                     <i class="fab fa-instagram icons fa-3x"></i>
                 </a>
                 <p class="text-light font-weight-bolder" style="font-size:large">mr_brianwachira</p>
-                <hr style="width: 80%; border-color: white; border-width: 3px;">
+                <!--hr style="width: 80%; border-color: white; border-width: 3px;"-->
             </div>
         </div>
     </div>
