@@ -7,6 +7,10 @@
                 <div class="progress mb-3">
                     <div class="progress-bar bg-success" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
+                <label for="python" class="text-light font-weight-bolder">Python</label>
+                <div class="progress mb-3">
+                    <div class="progress-bar bg-vue" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
                 <label for="Vue.js" class="text-light font-weight-bolder">Vue</label>
                 <div class="progress mb-3">
                     <div class="progress-bar bg-vue" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
