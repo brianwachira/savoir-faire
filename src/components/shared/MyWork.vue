@@ -8,7 +8,7 @@
                   <h5 class="card-title text-light font-weignt-bold">AVUVI PHOTOGRAPHY</h5>
                   <p class="card-text text-light">Above showcases the minimum viable portfolio website(MVP) done for <a href="https://www.instagram.com/avuvi_photography/" target="blank">Avuvi Photography</a>. Final release is on its way</p>
                   <div class="row">
-                    <a href="https://brianwachira.github.io/avuvi-photography/html/index" target="blank" class="btn btn-inherit  col-md-5 mb-1">Visit Website</a><div class="col-md-2"></div><a href="https://github.com/brianwachira/avuvi-photography" target="blank" class="btn btn-inherit col-md-5 mb-1">View source-code</a>
+                    <a href="https://brianwachira.github.io/avuvi-photography/html/index" target="blank" class="btn btn-inherit  col-md-5 mb-1">Visit Website</a><div class="col-md-2"></div><a href="https://github.com/brianwachira/avuvi-photography" target="blank" class="btn btn-inherit col-md-5 mb-1">View Project on <i class="fab fa-github-alt fa-1x"></i></a>
                   </div>
                 </div>
               </div>
@@ -56,7 +56,7 @@
                 <img class="card-img-top" :src="images.watchtower" alt="watchtower">
                 <div class="card-body ">
                   <h5 class="card-title text-light font-weignt-bold">Watch Tower</h5>
-                  <p class="card-text text-light">An flask web app that provides  news sources using <a href="https://newsapi.org/" target="blank">NewsAPI.org</a>.<br/> It displays a list of all sources of news sorted in categories.I am planning to spice up the user interface very soon</p>
+                  <p class="card-text text-light">An flask web app that provides  news sources using <a href="https://newsapi.org/" target="blank">NewsAPI.org</a>.It displays a list of all sources of news sorted in categories.I am planning to spice up the user interface very soon</p>
                   <div class="row">
                     <a href="https://watchtower197.herokuapp.com/" target="blank" class="btn btn-inherit col-md-5 mb-1">Visit Website</a><div class="col-md-2"></div><a href="https://github.com/brianwachira/watchtower"  target="blank" class="btn btn-inherit col-md-5 mb-1">View Project on <i class="fab fa-github-alt fa-1x"></i></a>
                   </div>
