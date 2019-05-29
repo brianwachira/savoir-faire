@@ -51,6 +51,18 @@
                 </div>
               </div>
             </div>
+            <div class="col-md-6 offset-md-3">
+              <div class="card bg-inherit mb-3"> 
+                <img class="card-img-top" :src="images.watchtower" alt="watchtower">
+                <div class="card-body ">
+                  <h5 class="card-title text-light font-weignt-bold">News Reader</h5>
+                  <p class="card-text text-light">An android app that fetches news using <a href="https://github.com/HackerNews/API" target="blank">HackerNews API</a>Guide the bird as it adventures against human-made poles that have filled up the city.</p>
+                  <div class="row">
+                    <div class="col-md-3"></div><a href="https://github.com/brianwachira/news-reader" target="blank" class="btn btn-inherit text-center col-md-6">View Project on <i class="fab fa-github-alt fa-1x"></i></a><div class="col-md-3"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
           <div class="row">
             <h3 class="col text-center text-light mr-3">Find more projects on<br/> 
@@ -66,6 +78,7 @@ import flappybird from "../../assets/flappybird.jpg"
 import avuvi from "../../assets/avuvi.png"
 import wahenga from "../../assets/wahenga-walisema.png"
 import newsreader from "../../assets/Screenshot_20190131-114534.png"
+import watchtower from "../../assets/watchtower.png"
 
 export default {
  data(){
@@ -74,7 +87,8 @@ export default {
       flappybird,
       avuvi,
       wahenga,
-      newsreader
+      newsreader,
+      watchtower
      }
    }
  }  
