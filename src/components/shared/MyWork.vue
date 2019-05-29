@@ -44,7 +44,7 @@
                 <img class="card-img-top" :src="images.newsreader" alt="background3">
                 <div class="card-body ">
                   <h5 class="card-title text-light font-weignt-bold">News Reader</h5>
-                  <p class="card-text text-light">An android app that fetches news using <a href="https://github.com/HackerNews/API" target="blank">HackerNews API</a>Guide the bird as it adventures against human-made poles that have filled up the city.</p>
+                  <p class="card-text text-light">An android app that fetches news using <a href="https://github.com/HackerNews/API" target="blank">HackerNews API</a> .Get news from everywhere around the world.</p>
                   <div class="row">
                     <div class="col-md-3"></div><a href="https://github.com/brianwachira/news-reader" target="blank" class="btn btn-inherit text-center col-md-6">View Project on <i class="fab fa-github-alt fa-1x"></i></a><div class="col-md-3"></div>
                   </div>
@@ -56,7 +56,7 @@
                 <img class="card-img-top" :src="images.watchtower" alt="watchtower">
                 <div class="card-body ">
                   <h5 class="card-title text-light font-weignt-bold">Watch Tower</h5>
-                  <p class="card-text text-light">An flask web app that provides  news sources using <a href="https://newsapi.org/" target="blank">NewsAPI.org</a>It displays a list of all sources of news sorted in categories.</p>
+                  <p class="card-text text-light">An flask web app that provides  news sources using <a href="https://newsapi.org/" target="blank">NewsAPI.org</a>.<br/> It displays a list of all sources of news sorted in categories.I am planning to spice up the user interface very soon</p>
                   <div class="row">
                     <a href="https://watchtower197.herokuapp.com/" target="blank" class="btn btn-inherit col-md-5 mb-1">Visit Website</a><div class="col-md-2"></div><a href="https://github.com/brianwachira/watchtower"  target="blank" class="btn btn-inherit col-md-5 mb-1">View Project on <i class="fab fa-github-alt fa-1x"></i></a>
                   </div>
